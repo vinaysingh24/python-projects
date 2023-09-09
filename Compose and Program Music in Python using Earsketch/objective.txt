@@ -1,0 +1,48 @@
+Project: Learn How to Program using Python in Earsketch
+
+Project Objectives:
+
+In this course, we are going to focus on 7 learning objectives:
+
+1.  Create and set up an Earsketch account
+
+2.  Navigate the Earsketch user interface.
+
+3.  Set up program script.
+
+4.  Add comments to the program script.
+
+5.  Create a function to call sound files.
+
+6.  Create a function to call effects for sound files.
+
+7.  Organize code by using variables
+
+Project Structure:
+
+The hands on project Learn How to Program using Python in Earsketch is divided into the following tasks:
+
+Task 1:  Create, set up, and learn to navigate Earsketch.
+
+Task 2:  Learn to set up program script and add comments.
+
+Task 3:  Compose a song by adding Python script.
+
+Task 4:  Build blocks of rhythm and add track effects.
+
+Task 5:  Create variables to clean up the code.
+
+
+Project: Learn How to Program using Python in Earsketch
+
+Now we will create a basic compositon using Python in Earsketch. We will accomplish it in by completing each task in the project:
+
+Task 1: Create, set up, and learn to navigate Earsketch. In this task, we will learn how to create and set up Earsketch account in order to begin composing music using the Python programming language. we will take a tour of the Earsketch user interface and learn about specific tools and menus and how they can help you throughout our project.
+
+Task 2: Learn to set up program script and add comments.  In this task, we will learn to set up the critical pieces of our program script and their functions in the program.
+
+Task 3: Compose a song by adding Python script. In this task, we will learn how to add more script and specific functions in order to compose a basic song.
+
+Task 4: Build blocks of rhythm and add track effects. In this task, we will learn to add blocks of rhythm and various effects to tracks to alter our composition.
+
+Task 5: Create variable to clean up the code. In this task, we will create variables to make it a little easier to read the program code as the program code grows.  
